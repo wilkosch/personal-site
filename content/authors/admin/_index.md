@@ -25,15 +25,15 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: MIT
+      year: 2020
+    - course: MSc in Robotics, Systems and Control
+      institution: ETH Zurich
+      year: 2020
+    - course: BSc in Mechanical Engineering
+      institution: ETH Zurich
+      year: 2014
 email: ""
 superuser: true
 user_groups:
