@@ -1,8 +1,8 @@
 ---
 title: Wilko Schwarting
-role: PhD Student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: PhD in CS
+bio: My research interests include Artificial Intelligence, Robotics, Machine
+  Learning, Game Theory, and Optimization
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -21,7 +21,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Stanford University
+  - name: MIT
     url: ""
 education:
   courses:
